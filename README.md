@@ -1,0 +1,26 @@
+# Bottle
+
+A demo for GSAP and Three.js
+
+## Prerequisite
+
+This project are using `Bun 1.2.18`, for installation guide, you can check them on their [official page](https://bun.com/docs/installation).
+
+## Development
+
+To start development server, run the commands below.
+
+```shell
+bun install
+bun run dev
+```
+
+## Build
+
+To build the project, use the command below.
+
+```shell
+bun run build
+```
+
+It will store the build artifact in the `dist/` directory.
