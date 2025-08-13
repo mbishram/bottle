@@ -1,6 +1,8 @@
-# Bottle 🍾
+# Magic Bottle 🍾
 
 A demo for GSAP and Three.js
+
+[Magic Bottle](https://magic-bottle.netlify.app/)
 
 ## Prerequisite
 
