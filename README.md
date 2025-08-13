@@ -1,4 +1,4 @@
-# Bottle
+# Bottle 🍾
 
 A demo for GSAP and Three.js
 
