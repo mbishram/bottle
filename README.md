@@ -6,7 +6,7 @@ A demo for GSAP and Three.js
 
 ## Prerequisite
 
-This project are using `Bun 1.2.18`, for installation guide, you can check them on their [official page](https://bun.com/docs/installation).
+This project are using `Bun 1.2.20`, for installation guide, you can check them on their [official page](https://bun.com/docs/installation).
 
 ## Development
 
