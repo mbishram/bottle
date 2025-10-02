@@ -8,6 +8,8 @@ A demo for GSAP and Three.js
 
 This project are using `Bun 1.2.20`, for installation guide, you can check them on their [official page](https://bun.com/docs/installation).
 
+Also, a big thank you to [Hungry Tiger](https://www.eathungrytiger.com/) for the inspiration.
+
 ## Development
 
 To start development server, run the commands below.
